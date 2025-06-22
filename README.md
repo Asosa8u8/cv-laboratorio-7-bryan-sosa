@@ -38,11 +38,11 @@ Puedes abrir individualmente cada archivo '.html' según el dispositivo:
 
 Enlace de GitHub
 
-- 
+- https://github.com/Asosa8u8/cv-laboratorio-7-bryan-sosa.git
 
 ---
 
 ## Autor
 
 - Bryan Andrés Sosa Sanchez  
-- andry234@live.com
+- INTERACCION PERSONA COMPUTADOR
