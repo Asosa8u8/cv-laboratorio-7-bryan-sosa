@@ -1,4 +1,4 @@
-## CV Digital - Bryan Andrés Sosa Sanchez
+## CV Digital - Bryan Andrés Sosa Sánchez
 
 Este proyecto consiste en la implementación de un Currículum Vitae responsivo a partir de un diseño realizado en Figma.
 
